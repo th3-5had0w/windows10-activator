@@ -1,7 +1,7 @@
 # windows10-activator
 <h1>yet another windows 10 activator</h1>
 <h2>Windows 10 Professional</h2>
-slmgr /ipk <br>
+slmgr /ipk AAAAA-BBBBB-CCCCC-DDDDD-EEEEE<br>
 slmgr /skms kms.srv.crsoo.com:1688<br>
 slmgr /ato
 
